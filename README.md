@@ -1,0 +1,1 @@
+This project is a web-based Tic-Tac-Toe game that allows two players to play against each other. The game is designed with a modular approach using factory functions and modules to keep global code to a minimum.
